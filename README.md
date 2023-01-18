@@ -11,3 +11,6 @@ This is a mobile application built with react native expo
 
 1. Samsung Galaxy A20 (Android)
 2. Iphone 11 pro max  (IOS)
+
+# STYLING 
+ 1. Tailwind css react native
