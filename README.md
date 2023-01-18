@@ -35,3 +35,7 @@ go to your app.js and add the following import
         <StatusBar style="auto" />
       </View>
   </TailwindProvider>
+  
+  8. Change the view to safeAreaView so that the text will move down
+  9. if you are using visual studio code try downloading tailwindcss that of the intellsence one
+  10. 
